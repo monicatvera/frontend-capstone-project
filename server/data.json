@@ -1,0 +1,14 @@
+{
+  "booked": {
+  },
+  "reservations": [
+    {
+      "date": "27 January 2023",
+      "from": "14:00",
+      "to": "16:00",
+      "name": "Balkan",
+      "guests": 1,
+      "bookingTime": "27 January 2023"
+    }
+  ]
+}

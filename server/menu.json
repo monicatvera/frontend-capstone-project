@@ -1,0 +1,30 @@
+{
+
+      "specials": ["Greek Salad", "Bruschetta", "Lemon Dessert"],
+      "dishes": 
+      {
+          "Greek Salad": {
+            "name":"Greek Salad",
+            "description":"The famous greek salad of crispy lettuce, peppers, olives and our Chicago style fetta cheese, garnished with crunchy garlic and rosemary croutons",
+            "ingredients":"Lettuce, peppers, olives, fetta cheese, garlic, rosemary croutons",
+            "price":"$12.99",
+            "image":"salad.jpg"
+          },
+          "Bruschetta": {
+            "name":"Bruschetta",
+            "description":"Our Bruchetta is made from grilled bread that has been smeared with garlic and seasoneed with salt and olive oil.",
+            "ingredients":"Bread, garlic, salt, olive oil",
+            "price":"$5.99",
+            "image":"bruschetta.jpg"
+          },
+          "Lemon Dessert": {
+            "name":"Lemon Dessert",
+            "description":"This comes straight from grandma's recipe book, every las ingredient has been sourced and it is as authentic as can be imagined.",
+            "ingredients":"Lemon, cream, biscuits",
+            "price":"$5.00",
+            "image":"lemon dessert.jpg"
+         }
+         }   
+      
+    
+}
